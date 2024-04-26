@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
         '/':(context)=>HomeScreen(),
         '/detail':(context)=>DetailScreen(),
         '/cart':(context)=>CartScreen(),
+
       },
     );
   }
